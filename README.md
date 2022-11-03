@@ -15,3 +15,7 @@ The idea behind this simple Power Shell script is to help auto generate logs usi
 * How to use Git Log: https://www.w3docs.com/learn-git/git-log.html
 * Working with Advanced Git Logs: https://www.oodlestechnologies.com/blogs/working-with-advanced-git-logs/
 * 10 Essential Git Log Command Examples on Linux to view commits: https://www.thegeekstuff.com/2014/04/git-log/
+
+# Improvements (backlog)
+
+* Auto generate logs every time we commit.
