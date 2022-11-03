@@ -1,0 +1,1 @@
+git log --date-order --pretty=format:" ## %h - %s.%n * Date: %cs%n * Author: %an%n%n" >> changelog.md
