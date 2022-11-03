@@ -7,6 +7,7 @@ The idea behind this simple Power Shell script is to help auto generate logs usi
 * Add changelogautogen.ps1 in the root of your repo.
 * Open Power Shell and run the script:
     * To run, navigate on PowerShell to the root folder and type this: . "<full-path>/changelogautogen.ps1", being <full-path> similar to "c:\Workspace\changelog_auto_generator\changelogautogen.ps1".
+    * You need to have git initiated on your repo.
 
 ## How to customize
 
